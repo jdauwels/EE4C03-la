@@ -1,15 +1,3 @@
-name: example-environment
-channels:
-  - conda-forge
 dependencies:
-  - numpy
-  - psutil
-  - toolz
-  - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
-  - octave_shell
-  - octave
+- octave_kernel
+- octave
